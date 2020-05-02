@@ -1,0 +1,8 @@
+a = 1 + 1
+print a
+print "\n"
+
+
+define sin(n){
+    return s(n)
+}
