@@ -13,6 +13,7 @@ code
 ```
 - [link to google](https://google.com)
 - ![link to pixiv pic( pixiv id=80784255 )](https://i.pximg.net/img-original/img/2020/04/14/14/03/32/80784255_p0.png)
+<img src="https://i.pximg.net/img-original/img/2020/04/14/14/03/32/80784255_p0.png">
 
 
 Inline-style: 
